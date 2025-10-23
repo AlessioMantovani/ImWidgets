@@ -111,10 +111,9 @@ ImWidgets::Calendar("Select Date", day, month, year);
 
 This is a dummy demo of what the library can currently achieve
 
-<video src="assets/demo.mp4" controls></video>
+[![Demo]([https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/AlessioMantovani/ImWidgets/blob/8b28cfe15b76c0f88035d85f89cd0cab53b70da5/assets/demo.mp4)
 
 ## Customization
-
 Customize widget appearance through the global style:
 
 ```cpp
