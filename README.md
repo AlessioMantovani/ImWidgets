@@ -110,6 +110,7 @@ ImWidgets::Calendar("Select Date", day, month, year);
 ## Demo
 
 This is a dummy demo of what the library can currently achieve
+
 https://github.com/user-attachments/assets/122249c5-948c-48c6-b25d-23138c41b64f
 
 ## Customization
