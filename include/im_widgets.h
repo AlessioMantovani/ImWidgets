@@ -6,10 +6,10 @@ struct ImWidgetsStyle {
     /* Toggle switch styling  */
     float   ImToggleSwitchRadius;
     ImVec2  ImToggleSwitchSize;
-    ImVec4  ImToggleSwitchOnColor;  // background when ON
-    ImVec4  ImToggleSwitchOffColor; // background when OFF
-    ImVec4  ImToggleSwitchKnobColor;// knob color
-    ImVec4  ImToggleSwitchDisabledColor; // disabled color    
+    ImVec4  ImToggleSwitchOnColor;  
+    ImVec4  ImToggleSwitchOffColor; 
+    ImVec4  ImToggleSwitchKnobColor;
+    ImVec4  ImToggleSwitchDisabledColor;    
 
     /* Radio Button Group */
     float   ImRadioButtonGroupRadius;
